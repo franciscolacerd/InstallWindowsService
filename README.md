@@ -1,5 +1,5 @@
 # InstallWindowsService
-TOOLS - Who to Install Windows Service
+TOOLS - How to Install Windows Service
 
 ```
 sc create NameWs binPath="C:\xxxx\yyyyy\zzzzz.exe" displayname="display name"  start=auto
