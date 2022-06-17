@@ -1,4 +1,4 @@
-# InstallWindowsService
+# Install Windows Service
 TOOLS - How to Install Windows Service
 
 ```
